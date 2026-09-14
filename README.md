@@ -15,9 +15,7 @@
 
 **Real-Time Satellite Anomaly Tracking • Rothermel Topographic Spread Engine • Byram Convective Intensity • Three.js WebGL Graphics • Autonomous Gemini Crisis AI**
 
-<br />
-
-![EmberWatch Hero Banner](https://images.unsplash.com/photo-1542385151-efd9000785a0?q=80&w=2000&auto=format&fit=crop)
+![EmberWatch AI Homescreen & Mission HUD](./public/emberwatch-hero.jpg)
 
 </div>
 
