@@ -1,0 +1,6 @@
+{
+  "name": "EmberWatch",
+  "description": "Real-Time Wildfire Intelligence & Early Warning System combining NASA FIRMS satellite observations, live Open-Meteo weather fusion, and tabular ML risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

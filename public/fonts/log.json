@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://static.wfonts.com/download/data/2025/02/19/noise-block/noise-block.zip",
+    "status": 404,
+    "ok": false,
+    "length": 0
+  },
+  {
+    "url": "https://www.fontspace.com/download/f92505",
+    "status": 403,
+    "ok": false,
+    "length": 0
+  },
+  {
+    "url": "https://www.fontspace.com/download/f141880",
+    "status": 403,
+    "ok": false,
+    "length": 0
+  },
+  {
+    "url": "https://dl.1001fonts.com/noise-block.zip",
+    "error": "fetch failed"
+  },
+  {
+    "url": "https://www.1001fonts.com/download/noise-block.zip",
+    "error": "fetch failed"
+  }
+]
